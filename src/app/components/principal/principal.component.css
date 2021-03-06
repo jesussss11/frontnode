@@ -1,0 +1,18 @@
+li.opcion
+{
+   float:center;
+   margin:0px 1px;
+   border:1px solid black;
+   border-bottom:4px black solid;
+   border-right:4px black solid;
+   background:#eeeeee;
+}
+a.opcion
+{
+   display:block;
+   padding:5px;
+}
+a.opcion:hover
+{
+   background:cyan;
+}
